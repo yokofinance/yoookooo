@@ -1,0 +1,52 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 500px;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: Monoton;
+  font-size: 3.4375rem;
+  margin: 37px 225px 0 auto;
+}
+
+.u-section-1 .u-text-2 {
+  font-family: FontsFree-Net-Lulo-Clean-W01-One-Bold;
+  font-size: 3.4375rem;
+  margin: -60px auto 0 217px;
+}
+
+.u-section-1 .u-text-3 {
+  font-family: FontsFree-Net-Avenir-Light;
+  margin: 20px 109px 60px;
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-text-1 {
+    margin-right: 169px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 163px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-text-1 {
+    margin-right: 106px;
+    font-size: 1.5rem;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-size: 1.5rem;
+    margin-left: 103px;
+  }
+}@font-face {
+  font-family: 'FontsFree-Net-Lulo-Clean-W01-One-Bold';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/FontsFree-Net-Lulo-Clean-W01-One-Bold.ttf);
+}@font-face {
+  font-family: 'FontsFree-Net-Avenir-Light';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/FontsFree-Net-Avenir-Light.ttf);
+}
